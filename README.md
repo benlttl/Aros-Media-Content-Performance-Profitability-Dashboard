@@ -5,9 +5,7 @@
 This project analyzes content performance and financial profitability for Aros Media using Microsoft Excel. It connects video-level performance metrics with production costs, commission revenue, and operating expenses to evaluate content efficiency and support data-driven business decisions.
 
 The workbook combines an interactive-style dashboard, management profit and loss reporting, unit economics, cost structure analysis, and business recommendations into a single analytical tool.
-
 ![Aros Media Content Performance and Profitability Dashboard](images/dashboard_preview.png)
-
 ## Business Objectives
 
 The project aims to answer several key business questions:
@@ -83,9 +81,9 @@ These recommendations should be evaluated against the underlying data and monito
 
 ## Files
 
-- `aros-media-content-performance-profitability-dashboard.xlsx` — Complete Excel workbook containing the dashboard, supporting analysis, and business findings.
-- `data/` — Supporting raw data, if permitted for public distribution.
-- `images/` — Dashboard screenshots and project visuals.
+- `[aros_media_content_performance_profitability_dashboard.xlsx](https://github.com/benlttl/Aros-Media-Content-Performance-Profitability-Dashboard/blob/main/aros_media_content_performance_profitability_dashboard.xlsx)` — Complete Excel workbook containing the dashboard, supporting analysis, and business findings.
+- `[data/](https://github.com/benlttl/Aros-Media-Content-Performance-Profitability-Dashboard/tree/main/data)` — Supporting raw data.
+- `[images/](https://github.com/benlttl/Aros-Media-Content-Performance-Profitability-Dashboard/tree/main/images)` — Dashboard screenshots and project visuals.
 
 ## How to Use
 
