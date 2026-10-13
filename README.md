@@ -81,9 +81,9 @@ These recommendations should be evaluated against the underlying data and monito
 
 ## Files
 
-- `aros_media_content_performance_profitability_dashboard.xlsx` — Complete Excel workbook containing the dashboard, supporting analysis, and business findings.
-- `data/` — Supporting raw data.
-- `images/` — Dashboard screenshots and project visuals.
+- `aros_media_content_performance_profitability_dashboard.xlsx` - Complete Excel workbook containing the dashboard, supporting analysis, and business findings.
+- `data/` - Supporting raw data.
+- `images/` - Dashboard screenshots and project visuals.
 
 ## How to Use
 
