@@ -81,9 +81,9 @@ These recommendations should be evaluated against the underlying data and monito
 
 ## Files
 
-- `[aros_media_content_performance_profitability_dashboard.xlsx](https://github.com/benlttl/Aros-Media-Content-Performance-Profitability-Dashboard/blob/main/aros_media_content_performance_profitability_dashboard.xlsx)` — Complete Excel workbook containing the dashboard, supporting analysis, and business findings.
-- `[data/](https://github.com/benlttl/Aros-Media-Content-Performance-Profitability-Dashboard/tree/main/data)` — Supporting raw data.
-- `[images/](https://github.com/benlttl/Aros-Media-Content-Performance-Profitability-Dashboard/tree/main/images)` — Dashboard screenshots and project visuals.
+- `aros_media_content_performance_profitability_dashboard.xlsx` — Complete Excel workbook containing the dashboard, supporting analysis, and business findings.
+- `data/` — Supporting raw data.
+- `images/` — Dashboard screenshots and project visuals.
 
 ## How to Use
 
